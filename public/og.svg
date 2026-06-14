@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#F3F6F8"/>
+  <rect x="80" y="180" width="88" height="88" rx="18" fill="#0A66C2"/>
+  <text x="124" y="242" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="white" text-anchor="middle">in</text>
+  <text x="80" y="332" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" fill="#0F172A">LinkedIn Workspace</text>
+  <text x="80" y="398" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#64748B">Draft in Markdown. Copy LinkedIn-ready.</text>
+  <text x="80" y="450" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#94A3B8">Unicode formatting · live preview · character count · see-more fold</text>
+</svg>
